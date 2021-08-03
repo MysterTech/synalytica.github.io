@@ -1,11 +1,5 @@
 ## Introduction
 
-You can use the [editor on GitHub](https://github.com/Synalytica/synalytica.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## About
-
 - The [core](mailto:core@synalytica.xyz) team consists of individuals with diverse, varied  levels of experience in the industry
 - The [dev](mailto:dev@synalytica.xyz) team handles all development operations with highly talented individuals with experience across
 	- Marketing & Social Strategy (Facebook Ads, Google AdSense)
@@ -47,3 +41,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Finance Queries](mailto:quant@synalytica.xyz)
 
 > All Rights Reserved, Synalytica 2021
+
