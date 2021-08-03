@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 - The [core](mailto:core@synalytica.xyz) team consists of individuals with diverse, varied  levels of experience in the industry
 - The [dev](mailto:dev@synalytica.xyz) team handles all development operations with highly talented individuals with experience across
@@ -12,11 +12,12 @@
 - [Project POC](mailto:contact@synalytica.xyz)
 - [Wellness Group](mailto:wellness@synalytica.xyz)
 
-## Team
+# Team
 
-### [Pratik K](https://www.linkedin.com/in/pratik-kamble/)
+## [Pratik K](https://www.linkedin.com/in/pratik-kamble/)
 ![profile-picture](https://gravatar.com/avatar/adfed1eede1f6e28c67f3708e997a896?s=400&d=robohash&r=x)
 > Tech Lead, Blockchain, AI and finance
+- [iCloud](mailto:pk13055@icloud.com)
 - [Github](https://github.com/pk13055)
 - [LinkedIn](https://www.linkedin.com/in/pratik-kamble/)
 - [Facebook](https://www.facebook.com/who.pk/)
@@ -46,7 +47,7 @@
 
 <!-- TODO: add other team members here -->
 
-## Service Requests
+# Service Requests
 
 - [Deployment Issues](mailto:logs-deployments-aaaaef7ylgm6adxa5aghffdysi@synalytica.slack.com)
 - [Tech Consultation Requests](mailto:contact@synalytica.xyz)
