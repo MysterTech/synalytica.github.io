@@ -15,18 +15,36 @@
 ## Team
 
 ### [Pratik K](https://www.linkedin.com/in/pratik-kamble/)
-
 ![profile-picture](https://gravatar.com/avatar/adfed1eede1f6e28c67f3708e997a896?s=400&d=robohash&r=x)
-
 > Tech Lead, Blockchain, AI and finance
-
 - [Github](https://github.com/pk13055)
 - [LinkedIn](https://www.linkedin.com/in/pratik-kamble/)
 - [Facebook](https://www.facebook.com/who.pk/)
 - [Instagram](https://www.instagram.com/pk13055/)
 
-<!-- TODO: add other team members here -->
+## [Gurkirat S]()
 <!-- add additional links, if you feel like -->
+
+## [Sanjay K]()
+<!-- add additional links, if you feel like -->
+
+## [Priyam M]()
+<!-- add additional links, if you feel like -->
+
+## [Vaishnavi R]()
+<!-- add additional links, if you feel like -->
+
+## [Shrey G]()
+<!-- add additional links, if you feel like -->
+
+## [Anmol A]()
+<!-- add additional links, if you feel like -->
+
+## [Sanchit A]()
+<!-- add additional links, if you feel like -->
+
+
+<!-- TODO: add other team members here -->
 
 ## Service Requests
 
@@ -40,5 +58,8 @@
 - [Design Queries](mailto:design@synalytica.one)
 - [Finance Queries](mailto:quant@synalytica.xyz)
 
-> All Rights Reserved, Synalytica 2021
+
+
+> All Rights Reserved
+> 	Synalytica 2021
 
