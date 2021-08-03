@@ -58,8 +58,5 @@
 - [Design Queries](mailto:design@synalytica.one)
 - [Finance Queries](mailto:quant@synalytica.xyz)
 
-
-
-> All Rights Reserved
-> 	Synalytica 2021
-
+> 🍀 All Rights Reserved | 䤵Ƥ Synalytica 2021 ⎊
+> 䔬 ♥ ☕ ▼⧌▼ ☕ ♥ 䔬 | Drop us a [mail](mailto:contact@synalytica.xyz)
