@@ -51,12 +51,8 @@
 ## [Anmol A]()
 <!-- add additional links, if you feel like -->
 
-## [Sanchit A](https://www.linkedin.com/in/tichnas/)
-![profile-picture](https://gravatar.com/avatar/4f36cb516dccba98447f91ccdb5398ad?s=400)
-> Blockchain Lead
-
-- [LinkedIn](https://www.linkedin.com/in/tichnas/)
-- [Github](https://github.com/tichnas)
+## [Sanchit A]()
+<!-- add additional links, if you feel like -->
 
 
 <!-- TODO: add other team members here -->
