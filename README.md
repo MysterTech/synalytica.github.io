@@ -31,8 +31,13 @@
 - [Github](https://github.com/gsc2001)
 
 
-## [Sanjay K]()
-<!-- add additional links, if you feel like -->
+## [Sanjay K](http://www.mystertech.com)
+![profile-picture](https://gravatar.com/avatar/81981acf2ede9ae2af3b9dc1bad3a285?s=400&d=robohash&r=x)
+> Enterprise Ops and Fintech
+- [Github](https://github.com/MysterTech)
+- [LinkedIn](https://www.linkedin.com/in/cmsanjaykrishna/)
+- [Facebook](https://www.facebook.com/cmsanjaykrishna/)
+- [Instagram](https://www.instagram.com/let_there_be_me/)
 
 ## [Priyam M]()
 <!-- add additional links, if you feel like -->
