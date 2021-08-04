@@ -40,8 +40,13 @@
 ## [Vaishnavi R]()
 <!-- add additional links, if you feel like -->
 
-## [Shrey G]()
-<!-- add additional links, if you feel like -->
+## [Shrey G](mailto:shrey@synalytica.xyz)
+![profile-picture](https://gravatar.com/avatar/54b8909fc51ce5d4931364c38847313b?s=400&d=robohash&r=x)
+> Software Developer
+
+- [LinkedIn](https://www.linkedin.com/in/shrey-gupta-18273518a/)
+- [Github](https://github.com/shreygupta2809)
+- [Facebook](https://www.facebook.com/shreygupta2809)
 
 ## [Anmol A]()
 <!-- add additional links, if you feel like -->
