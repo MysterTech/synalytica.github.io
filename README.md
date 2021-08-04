@@ -23,8 +23,13 @@
 - [Facebook](https://www.facebook.com/who.pk/)
 - [Instagram](https://www.instagram.com/pk13055/)
 
-## [Gurkirat S]()
-<!-- add additional links, if you feel like -->
+## [Gurkirat S](mailto:gsc@synalytica.xyz)
+![profile-picture](https://gravatar.com/avatar/7d5f94b9df2cca53057676b3cb8c53e8?s=400)
+> Web Lead
+
+- [LinkedIn](https://www.linkedin.com/in/gsc2001/)
+- [Github](https://github.com/gsc2001)
+
 
 ## [Sanjay K]()
 <!-- add additional links, if you feel like -->
