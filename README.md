@@ -25,11 +25,9 @@
 
 ## [Gurkirat S](mailto:gsc@synalytica.xyz)
 ![profile-picture](https://gravatar.com/avatar/7d5f94b9df2cca53057676b3cb8c53e8?s=400)
-> Web Lead
-
+> Web Dev, Data Science
 - [LinkedIn](https://www.linkedin.com/in/gsc2001/)
 - [Github](https://github.com/gsc2001)
-
 
 ## [Sanjay K](http://www.mystertech.com)
 ![profile-picture](https://gravatar.com/avatar/81981acf2ede9ae2af3b9dc1bad3a285?s=400&d=robohash&r=x)
@@ -41,33 +39,36 @@
 
 ## [Priyam M](https://www.linkedin.com/in/priyam-maheshwari/)
 ![profile-picture](https://gravatar.com/avatar/9ebc1153f5bc254b8ef33f84f6801ee6?s=400&d=robohash&r=x)
-> Marketing and Design Lead
+> Marketing Lead, Design
 - [Email](mailto:priyam@synalytica.one)
 - [Github](https://github.com/priyam29)
 - [LinkedIn](https://www.linkedin.com/in/priyam-maheshwari/)
 - [Facebook](https://www.facebook.com/priyam.maheshwari.5)
 - [Instagram](https://www.instagram.com/preyamble/)
 
-## [Vaishnavi R]()
-<!-- add additional links, if you feel like -->
+## [Vaishnavi R](mailto:whyshreddy@synalytica.xyz)
+![profile-picture](https://gravatar.com/avatar/7ecfeafc010cea534b9a892efcfc5e57?s=400&d=robohash&r=x)
+> Data Science Lead, Deep Learning &amp; Design
+- [Github](https://github.com/whyshreddy)
+- [LinkedIn](https://www.linkedin.com/in/vaishnavi-reddy-gutha-418934208)
+- [Facebook](https://www.facebook.com/vaishnavi.g.reddy)
+- [Instagram](https://www.instagram.com/whyshreddy/)
 
 ## [Shrey G](mailto:shrey@synalytica.xyz)
 ![profile-picture](https://gravatar.com/avatar/54b8909fc51ce5d4931364c38847313b?s=400&d=robohash&r=x)
 > Software Developer
-
 - [LinkedIn](https://www.linkedin.com/in/shrey-gupta-18273518a/)
 - [Github](https://github.com/shreygupta2809)
 - [Facebook](https://www.facebook.com/shreygupta2809)
 
-## [Anmol A]()
-<!-- add additional links, if you feel like -->
-
 ## [Sanchit A](https://www.linkedin.com/in/tichnas/)
 ![profile-picture](https://gravatar.com/avatar/4f36cb516dccba98447f91ccdb5398ad?s=400)
 > Blockchain Lead
-
 - [LinkedIn](https://www.linkedin.com/in/tichnas/)
 - [Github](https://github.com/tichnas)
+
+## [Anmol A]()
+<!-- add additional links, if you feel like -->
 
 
 <!-- TODO: add other team members here -->
