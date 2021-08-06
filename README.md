@@ -39,8 +39,14 @@
 - [Facebook](https://www.facebook.com/cmsanjaykrishna/)
 - [Instagram](https://www.instagram.com/let_there_be_me/)
 
-## [Priyam M]()
-<!-- add additional links, if you feel like -->
+## [Priyam M](https://www.linkedin.com/in/priyam-maheshwari/)
+![profile-picture](https://gravatar.com/avatar/9ebc1153f5bc254b8ef33f84f6801ee6?s=400&d=robohash&r=x)
+> Marketing and Design Lead
+- [Email](mailto:priyam@synalytica.one)
+- [Github](https://github.com/priyam29)
+- [LinkedIn](https://www.linkedin.com/in/priyam-maheshwari/)
+- [Facebook](https://www.facebook.com/priyam.maheshwari.5)
+- [Instagram](https://www.instagram.com/preyamble/)
 
 ## [Vaishnavi R]()
 <!-- add additional links, if you feel like -->
