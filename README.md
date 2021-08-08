@@ -67,20 +67,14 @@
 - [LinkedIn](https://www.linkedin.com/in/tichnas/)
 - [Github](https://github.com/tichnas)
 
-## [Anmol A]()
-<!-- add additional links, if you feel like -->
-
-
 <!-- TODO: add other team members here -->
 
 # Service Requests
-
 - [Deployment Issues](mailto:logs-deployments-aaaaef7ylgm6adxa5aghffdysi@synalytica.slack.com)
 - [Tech Consultation Requests](mailto:contact@synalytica.xyz)
 - [Design Consultation Requests](mailto:design@synalytica.one)
 
 ## Reach Out
-
 - [Dev Queries](mailto:dev@synalytica.xyz)
 - [Design Queries](mailto:design@synalytica.one)
 - [Finance Queries](mailto:quant@synalytica.xyz)
