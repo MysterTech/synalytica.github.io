@@ -1,80 +1,44 @@
-# Introduction
-- The [core](mailto:core@synalytica.xyz) team consists of individuals with diverse, varied  levels of experience in the industry
-- The [dev](mailto:dev@synalytica.xyz) team handles all development operations with highly talented individuals with experience across
-	- Marketing & Social Strategy (Facebook Ads, Google AdSense)
-	- Web Design & Applications (SPA/hybrid)
-	- ML & AI (modeling and E2E B2B/C applications)
-	- Quant & Finance
-	- Blockchain
+# [Synalytica Website](https://synalytica.xyz/)
 
-- [Design POC](mailto:contact@synalytica.one)
-- [Project POC](mailto:contact@synalytica.xyz)
-- [Wellness Group](mailto:wellness@synalytica.xyz)
+[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
+[![Linux Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)][ci-workflow]
+[![Windows Build status](https://img.shields.io/appveyor/ci/jekyll/jekyll/master.svg?label=Windows%20build)][appveyor]
+[![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)][hakiri]
 
-# Service Requests
-- [Deployment Issues](mailto:logs-deployments-aaaaef7ylgm6adxa5aghffdysi@synalytica.slack.com)
-- [Tech Consultation Requests](mailto:contact@synalytica.xyz)
-- [Design Consultation Requests](mailto:contact@synalytica.one)
+[ruby-gems]: https://rubygems.org/gems/jekyll
+[hakiri]: https://hakiri.io/github/jekyll/jekyll/master
+[ci-workflow]: https://github.com/jekyll/jekyll/actions?query=workflow%3A%22Continuous+Integration%22+branch%3Amaster
+[appveyor]: https://ci.appveyor.com/project/jekyll/jekyll/branch/master
 
-## Reach Out
-- [Dev Queries](mailto:dev@synalytica.xyz)
-- [Design Queries](mailto:design@synalytica.one)
-- [Finance Queries](mailto:quant@synalytica.xyz)
+This repository serves as the homepage of the collective known as Synalytica. 
+<p>&nbsp;</p>
 
-# Team
+## Development Setup
 
-## [Pratik K](https://www.linkedin.com/in/pratik-kamble/)
-![profile-picture](https://gravatar.com/avatar/adfed1eede1f6e28c67f3708e997a896?s=200&d=robohash&r=x)
-> Tech Lead, Blockchain, AI and finance
-- [iCloud](mailto:pk13055@icloud.com)
-- [Github](https://github.com/pk13055)
-- [LinkedIn](https://www.linkedin.com/in/pratik-kamble/)
-- [Facebook](https://www.facebook.com/who.pk/)
-- [Instagram](https://www.instagram.com/pk13055/)
+### Prerequisites
+* Install [Jekyll](https://jekyllrb.com/docs/installation/)
 
-## [Gurkirat S](mailto:gsc@synalytica.xyz)
-![profile-picture](https://gravatar.com/avatar/7d5f94b9df2cca53057676b3cb8c53e8?s=200)
-> Web Dev, Data Science
-- [LinkedIn](https://www.linkedin.com/in/gsc2001/)
-- [Github](https://github.com/gsc2001)
+We recommend using [Bundler](http://bundler.io/) to install and run Jekyll. Bundler manages Ruby gem dependencies, reduces Jekyll build errors, and prevents environment-related bugs. To install Bundler:
 
-## [Sanjay K](http://www.mystertech.com)
-![profile-picture](https://gravatar.com/avatar/81981acf2ede9ae2af3b9dc1bad3a285?s=200&d=robohash&r=x)
-> Web, Java Developer & DevOps 
-- [Github](https://github.com/MysterTech)
-- [LinkedIn](https://www.linkedin.com/in/cmsanjaykrishna/)
-- [Facebook](https://www.facebook.com/cmsanjaykrishna/)
-- [Instagram](https://www.instagram.com/let_there_be_me/)
+1. Install Ruby. For more information, see ["Installing Ruby"](https://www.ruby-lang.org/en/documentation/installation/) in the Ruby documentation.
+2. Install Bundler. For more information, see ["Bundler"](https://bundler.io/).
 
-## [Priyam M](https://www.linkedin.com/in/priyam-maheshwari/)
-![profile-picture](https://gravatar.com/avatar/9ebc1153f5bc254b8ef33f84f6801ee6?s=200&d=robohash&r=x)
-> Marketing Lead, Design
-- [Email](mailto:priyam@synalytica.one)
-- [Github](https://github.com/priyam29)
-- [LinkedIn](https://www.linkedin.com/in/priyam-maheshwari/)
-- [Facebook](https://www.facebook.com/priyam.maheshwari.5)
-- [Instagram](https://www.instagram.com/preyamble/)
 
-## [Vaishnavi R](mailto:whyshreddy@synalytica.xyz)
-![profile-picture](https://gravatar.com/avatar/7ecfeafc010cea534b9a892efcfc5e57?s=200&d=robohash&r=x)
-> Data Science Lead, Deep Learning &amp; Design
-- [Github](https://github.com/whyshreddy)
-- [LinkedIn](https://www.linkedin.com/in/vaishnavi-reddy-gutha-418934208)
-- [Facebook](https://www.facebook.com/vaishnavi.g.reddy)
-- [Instagram](https://www.instagram.com/whyshreddy/)
-
-## [Shrey G](mailto:shrey@synalytica.xyz)
-![profile-picture](https://gravatar.com/avatar/54b8909fc51ce5d4931364c38847313b?s=200&d=robohash&r=x)
-> Software Developer
-- [LinkedIn](https://www.linkedin.com/in/shrey-gupta-18273518a/)
-- [Github](https://github.com/shreygupta2809)
-- [Facebook](https://www.facebook.com/shreygupta2809)
-
-## [Sanchit A](https://www.linkedin.com/in/tichnas/)
-![profile-picture](https://gravatar.com/avatar/4f36cb516dccba98447f91ccdb5398ad?s=200)
-> Blockchain Lead
-- [LinkedIn](https://www.linkedin.com/in/tichnas/)
-- [Github](https://github.com/tichnas)
-
-<!-- TODO: add other team members here -->
-
+### Building your site locally
+1. Open Terminal.
+2. Navigate to the publishing source for your site. For more information about publishing sources, see "[About GitHub Pages](https://docs.github.com/en/articles/about-github-pages#publishing-sources-for-github-pages-sites)".
+3. Run bundle install.
+4. Run your Jekyll site locally.
+```
+$ bundle exec jekyll serve
+> Configuration file: /Users/octocat/my-site/_config.yml
+>            Source: /Users/octocat/my-site
+>       Destination: /Users/octocat/my-site/_site
+> Incremental build: disabled. Enable with --incremental
+>      Generating...
+>                    done in 0.309 seconds.
+> Auto-regeneration: enabled for '/Users/octocat/my-site'
+> Configuration file: /Users/octocat/my-site/_config.yml
+>    Server address: http://127.0.0.1:4000/
+>  Server running... press ctrl-c to stop.```
+To preview your site, in your web browser, navigate to http://localhost:4000.
