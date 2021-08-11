@@ -78,5 +78,3 @@
 
 <!-- TODO: add other team members here -->
 
-> 🍀 All Rights Reserved | 䤵Ƥ Synalytica 2021 ⎊
-> 䔬 ♥ ☕ ▼⧌▼ ☕ ♥ 䔬 | Drop us a [mail](mailto:contact@synalytica.xyz)
