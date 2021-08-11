@@ -1,82 +1,108 @@
-# Introduction
-- The [core](mailto:core@synalytica.xyz) team consists of individuals with diverse, varied  levels of experience in the industry
-- The [dev](mailto:dev@synalytica.xyz) team handles all development operations with highly talented individuals with experience across
-	- Marketing & Social Strategy (Facebook Ads, Google AdSense)
-	- Web Design & Applications (SPA/hybrid)
-	- ML & AI (modeling and E2E B2B/C applications)
-	- Quant & Finance
-	- Blockchain
+# [Synalytica Website](https://synalytica.xyz/)
 
-- [Design POC](mailto:contact@synalytica.one)
-- [Project POC](mailto:contact@synalytica.xyz)
-- [Wellness Group](mailto:wellness@synalytica.xyz)
+This repository serves as the homepage of the collective known as Synalytica. 
+<p>&nbsp;</p>
 
-# Service Requests
-- [Deployment Issues](mailto:logs-deployments-aaaaef7ylgm6adxa5aghffdysi@synalytica.slack.com)
-- [Tech Consultation Requests](mailto:contact@synalytica.xyz)
-- [Design Consultation Requests](mailto:contact@synalytica.one)
+# Adding blog posts
+You write blog posts as text files and Jekyll provides everything you need to turn it into a blog.
 
-## Reach Out
-- [Dev Queries](mailto:dev@synalytica.xyz)
-- [Design Queries](mailto:design@synalytica.one)
-- [Finance Queries](mailto:quant@synalytica.xyz)
+## The Posts Folder
 
-# Team
+The `_posts` folder is where your blog posts live. You typically write posts
+in [Markdown](https://daringfireball.net/projects/markdown/), HTML is
+also supported.
 
-## [Pratik K](https://www.linkedin.com/in/pratik-kamble/)
-![profile-picture](https://gravatar.com/avatar/adfed1eede1f6e28c67f3708e997a896?s=200&d=robohash&r=x)
-> Tech Lead, Blockchain, AI and finance
-- [iCloud](mailto:pk13055@icloud.com)
-- [Github](https://github.com/pk13055)
-- [LinkedIn](https://www.linkedin.com/in/pratik-kamble/)
-- [Facebook](https://www.facebook.com/who.pk/)
-- [Instagram](https://www.instagram.com/pk13055/)
+## Creating Posts
 
-## [Gurkirat S](mailto:gsc@synalytica.xyz)
-![profile-picture](https://gravatar.com/avatar/7d5f94b9df2cca53057676b3cb8c53e8?s=200)
-> Web Dev, Data Science
-- [LinkedIn](https://www.linkedin.com/in/gsc2001/)
-- [Github](https://github.com/gsc2001)
+To create a post, add a file to your `_posts` directory with the following
+format:
 
-## [Sanjay K](http://www.mystertech.com)
-![profile-picture](https://gravatar.com/avatar/81981acf2ede9ae2af3b9dc1bad3a285?s=200&d=robohash&r=x)
-> Web, Java Developer & DevOps 
-- [Github](https://github.com/MysterTech)
-- [LinkedIn](https://www.linkedin.com/in/cmsanjaykrishna/)
-- [Facebook](https://www.facebook.com/cmsanjaykrishna/)
-- [Instagram](https://www.instagram.com/let_there_be_me/)
+```
+YEAR-MONTH-DAY-title.MARKUP
+```
 
-## [Priyam M](https://www.linkedin.com/in/priyam-maheshwari/)
-![profile-picture](https://gravatar.com/avatar/9ebc1153f5bc254b8ef33f84f6801ee6?s=200&d=robohash&r=x)
-> Marketing Lead, Design
-- [Email](mailto:priyam@synalytica.one)
-- [Github](https://github.com/priyam29)
-- [LinkedIn](https://www.linkedin.com/in/priyam-maheshwari/)
-- [Facebook](https://www.facebook.com/priyam.maheshwari.5)
-- [Instagram](https://www.instagram.com/preyamble/)
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit
+numbers, and `MARKUP` is the file extension representing the format used in the
+file. For example, the following are examples of valid post filenames:
 
-## [Vaishnavi R](mailto:whyshreddy@synalytica.xyz)
-![profile-picture](https://gravatar.com/avatar/7ecfeafc010cea534b9a892efcfc5e57?s=200&d=robohash&r=x)
-> Data Science Lead, Deep Learning &amp; Design
-- [Github](https://github.com/whyshreddy)
-- [LinkedIn](https://www.linkedin.com/in/vaishnavi-reddy-gutha-418934208)
-- [Facebook](https://www.facebook.com/vaishnavi.g.reddy)
-- [Instagram](https://www.instagram.com/whyshreddy/)
+```
+2011-12-31-new-years-eve-is-awesome.md
+2012-09-12-how-to-write-a-blog.md
+```
 
-## [Shrey G](mailto:shrey@synalytica.xyz)
-![profile-picture](https://gravatar.com/avatar/54b8909fc51ce5d4931364c38847313b?s=200&d=robohash&r=x)
-> Software Developer
-- [LinkedIn](https://www.linkedin.com/in/shrey-gupta-18273518a/)
-- [Github](https://github.com/shreygupta2809)
-- [Facebook](https://www.facebook.com/shreygupta2809)
+All blog post files must begin with [front matter](/docs/front-matter/) which is
+typically used to set a [layout](/docs/layouts/) or other meta data. Use the template given below to bootstrap 
+blog creation. Currently supported topics:
+1. Quant
+2. Dev
+3. Blockchain
+4. AI
 
-## [Sanchit A](https://www.linkedin.com/in/tichnas/)
-![profile-picture](https://gravatar.com/avatar/4f36cb516dccba98447f91ccdb5398ad?s=200)
-> Blockchain Lead
-- [LinkedIn](https://www.linkedin.com/in/tichnas/)
-- [Github](https://github.com/tichnas)
+```markdown
+---
+layout: post
+title:  "Welcome to Synalytica!"
+topic:  "Quant"
+---
 
-<!-- TODO: add other team members here -->
+# Welcome
 
-> 🍀 All Rights Reserved | 䤵Ƥ Synalytica 2021 ⎊
-> 䔬 ♥ ☕ ▼⧌▼ ☕ ♥ 䔬 | Drop us a [mail](mailto:contact@synalytica.xyz)
+**Hello world**, this is my first blog post.
+
+I hope you like it!
+```
+
+## Including images and resources
+
+At some point, you'll want to include images, downloads, or other
+digital assets along with your text content. One common solution is to create
+a folder in the root of the project directory called something like `assets`,
+into which any images, files or other resources are placed. Then, from within
+any post, they can be linked to using the site’s root as the path for the asset
+to include. The best way to do this depends on the way your site’s (sub)domain
+and path are configured, but here are some simple examples in Markdown:
+
+Including an image asset in a post:
+
+```markdown
+... which is shown in the screenshot below:
+![My helpful screenshot](/assets/screenshot.jpg)
+```
+
+Linking to a PDF for readers to download:
+
+```markdown
+... you can [get the PDF](/assets/mydoc.pdf) directly.
+```
+<p>&nbsp;</p>
+
+# Development Setup
+
+## Prerequisites
+* Install [Jekyll](https://jekyllrb.com/docs/installation/)
+
+We recommend using [Bundler](http://bundler.io/) to install and run Jekyll. Bundler manages Ruby gem dependencies, reduces Jekyll build errors, and prevents environment-related bugs. To install Bundler:
+
+1. Install Ruby. For more information, see ["Installing Ruby"](https://www.ruby-lang.org/en/documentation/installation/) in the Ruby documentation.
+2. Install Bundler. For more information, see ["Bundler"](https://bundler.io/).
+
+
+## Building your site locally
+1. Open Terminal.
+2. Navigate to the publishing source for your site. For more information about publishing sources, see "[About GitHub Pages](https://docs.github.com/en/articles/about-github-pages#publishing-sources-for-github-pages-sites)".
+3. Run bundle install.
+4. Run your Jekyll site locally.
+```
+$ bundle exec jekyll serve
+> Configuration file: /Users/octocat/my-site/_config.yml
+>            Source: /Users/octocat/my-site
+>       Destination: /Users/octocat/my-site/_site
+> Incremental build: disabled. Enable with --incremental
+>      Generating...
+>                    done in 0.309 seconds.
+> Auto-regeneration: enabled for '/Users/octocat/my-site'
+> Configuration file: /Users/octocat/my-site/_config.yml
+>    Server address: http://127.0.0.1:4000/
+>  Server running... press ctrl-c to stop.```
+To preview your site, in your web browser, navigate to http://localhost:4000.
+```
