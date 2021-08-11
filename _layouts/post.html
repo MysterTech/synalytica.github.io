@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+
+  <body>
+
+    <header>
+      <div class="container">
+        <div class="titlebar">
+          <h1>{{ page.title | default: site.github.repository_name }}</h1>
+        <a href="{{ '/' | relative_url }}" ><span class="icon"></span>Home</a>
+        </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
